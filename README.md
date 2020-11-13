@@ -1,5 +1,5 @@
 # FlappyBirdClone_py
-<h1>The main Menu<h1>
+<p1>The main Menu<p1>
 <img src="Capture.JPG">
-<h1>Gameplay<h1>
+<p1>Gameplay<p1>
 <img src="Capture2.JPG">
